@@ -11,3 +11,9 @@ main{
   background-color: #1abc9c;
   height: 500px;
 }
+.box{
+  height: 50px;
+  width: 100px;
+  background-color: pink;
+  border: 1px solid black;
+}
