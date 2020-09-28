@@ -17,3 +17,9 @@ main{
   background-color: pink;
   border: 1px solid black;
 }
+.left{
+  background-color: green;
+}
+.right{
+  background-color: blue;
+}
