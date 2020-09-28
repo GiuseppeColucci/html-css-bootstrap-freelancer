@@ -12,8 +12,8 @@
   height: 500px;
 }
 .box{
-  height: 50px;
-  width: 100px;
+  height: 100px;
+  width: 300px;
   background-color: pink;
   border: 1px solid black;
 }
