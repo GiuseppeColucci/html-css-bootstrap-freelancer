@@ -13,7 +13,7 @@
 }
 .box{
   height: 100px;
-  width: 300px;
+
   background-color: pink;
   border: 1px solid black;
 }
@@ -22,4 +22,9 @@
 }
 .right{
   background-color: blue;
+}
+@media screen and (max-width:991px){
+  .box-two{
+    display: none;
+  }
 }
