@@ -17,9 +17,13 @@ footer{
 .background-box-2{
   background-color:#fff;
 }
-
+.box img{
+  max-height: 100%;
+  max-width: 100%;
+}
 .box{
-  height: 100px;
+  height: 200px;
+  width: 200px;
   background-color: orange;
   border: 1px solid black;
 }
