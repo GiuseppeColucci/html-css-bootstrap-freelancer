@@ -90,6 +90,13 @@ section{
   font-size: 70px;
   transform: translate(-50%, -50%);
 }
+/* ABOUT */
+.about .left{
+  width: 300px;
+}
+.about .right{
+  width: 300px;
+}
 h1{
   font-size: 26px;
   text-transform: uppercase;
@@ -114,8 +121,8 @@ h1{
 .box{
   margin: auto;
   height: 200px;
-  width: 500px;
-  /* background-color: orange; */
+  width: 300px;
+
   border: 1px solid black;
 }
 footer{
